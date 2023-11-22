@@ -1,0 +1,378 @@
+[
+    {
+      "id": 1,
+      "player": "brand",
+      "opp": "unknown",
+      "details": "",
+      "first": "X",
+      "result": "W"
+    },
+    {
+      "id": 2,
+      "player": "brand",
+      "opp": "MM",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 3,
+      "player": "brand",
+      "opp": "lab",
+      "details": "",
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 4,
+      "player": "brand",
+      "opp": "VLS",
+      "details": "",
+      "first": "O",
+      "result": "L"
+    },
+    {
+      "id": 5,
+      "player": "brand",
+      "opp": "punk",
+      "details": 64,
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 6,
+      "player": "brand",
+      "opp": "light",
+      "details": "",
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 7,
+      "player": "brand",
+      "opp": "punk",
+      "details": 6,
+      "first": "X",
+      "result": "W"
+    },
+    {
+      "id": 8,
+      "player": "brand",
+      "opp": "VS",
+      "details": "",
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 9,
+      "player": "brand",
+      "opp": "unknown",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 10,
+      "player": "brand",
+      "opp": "MM",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 11,
+      "player": "brand",
+      "opp": "KS",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 12,
+      "player": "brand",
+      "opp": "MK",
+      "details": "",
+      "first": "O",
+      "result": "L"
+    },
+    {
+      "id": 13,
+      "player": "brand",
+      "opp": "cyber",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 14,
+      "player": "brand",
+      "opp": "TE",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 15,
+      "player": "brand",
+      "opp": "VS",
+      "details": "",
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 16,
+      "player": "brand",
+      "opp": "dragon",
+      "details": "",
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 17,
+      "player": "brand",
+      "opp": "star",
+      "details": "",
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 18,
+      "player": "brand",
+      "opp": "lab",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 19,
+      "player": "brand",
+      "opp": "sword",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 20,
+      "player": "brand",
+      "opp": "brand",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 21,
+      "player": "dragon",
+      "opp": "pure",
+      "details": "",
+      "first": "O",
+      "result": "L"
+    },
+    {
+      "id": 22,
+      "player": "dragon",
+      "opp": "lab",
+      "details": "",
+      "first": "X",
+      "result": "W"
+    },
+    {
+      "id": 23,
+      "player": "dragon",
+      "opp": "VS",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 24,
+      "player": "dragon",
+      "opp": "brand",
+      "details": "",
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 25,
+      "player": "dragon",
+      "opp": "lab",
+      "details": "",
+      "first": "O",
+      "result": "L"
+    },
+    {
+      "id": 26,
+      "player": "dragon",
+      "opp": "KS",
+      "details": "",
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 27,
+      "player": "dragon",
+      "opp": "ice",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 28,
+      "player": "dragon",
+      "opp": "lab",
+      "details": "",
+      "first": "O",
+      "result": "L"
+    },
+    {
+      "id": 29,
+      "player": "dragon",
+      "opp": "VS",
+      "details": "",
+      "first": "X",
+      "result": "W"
+    },
+    {
+      "id": 30,
+      "player": "dragon",
+      "opp": "orc",
+      "details": "",
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 31,
+      "player": "dragon",
+      "opp": "brand",
+      "details": 6,
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 32,
+      "player": "dragon",
+      "opp": "KS",
+      "details": "",
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 33,
+      "player": "dragon",
+      "opp": "brand",
+      "details": 4,
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 34,
+      "player": "dragon",
+      "opp": "brand",
+      "details": 6,
+      "first": "X",
+      "result": "W"
+    },
+    {
+      "id": 35,
+      "player": "dragon",
+      "opp": "KS",
+      "details": "",
+      "first": "O",
+      "result": "L"
+    },
+    {
+      "id": 36,
+      "player": "dragon",
+      "opp": "MM",
+      "details": "IG",
+      "first": "X",
+      "result": "W"
+    },
+    {
+      "id": 37,
+      "player": "dragon",
+      "opp": "brand",
+      "details": 4,
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 38,
+      "player": "dragon",
+      "opp": "KS",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 39,
+      "player": "dragon",
+      "opp": "rune",
+      "details": "",
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 40,
+      "player": "dragon",
+      "opp": "bys",
+      "details": "",
+      "first": "X",
+      "result": "W"
+    },
+    {
+      "id": 41,
+      "player": "dragon",
+      "opp": "CD",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 42,
+      "player": "dragon",
+      "opp": "TE",
+      "details": 64,
+      "first": "X",
+      "result": "L"
+    },
+    {
+      "id": 43,
+      "player": "dragon",
+      "opp": "hero",
+      "details": "",
+      "first": "X",
+      "result": "W"
+    },
+    {
+      "id": 44,
+      "player": "dragon",
+      "opp": "VS",
+      "details": "",
+      "first": "O",
+      "result": "W"
+    },
+    {
+      "id": 45,
+      "player": "dragon",
+      "opp": "VS",
+      "details": "",
+      "first": "O",
+      "result": "L"
+    },
+    {
+      "id": 46,
+      "player": "dragon",
+      "opp": "meta",
+      "details": "",
+      "first": "X",
+      "result": "W"
+    },
+    {
+      "id": 47,
+      "player": "dragon",
+      "opp": "TE",
+      "details": 64,
+      "first": "O",
+      "result": "W"
+    }
+  ]
