@@ -6,6 +6,7 @@ import { Button } from 'react-bootstrap';
 import Records from './Records.js';
 import AddRecord from './AddRecord.js';
 import RateTable from './RateTable';
+import Chart from './Chart.js';
 
 
 function App() {
@@ -61,11 +62,15 @@ function App() {
         <Button variant="dark" size="lg" className='button'
         onClick={() => handleButtonClick('AddRecord')}
         disabled={activeComponent === 'AddRecord'}>Add Record</Button>
+        <Button variant="dark" size="lg" className='button'
+        onClick={() => handleButtonClick('Chart')}
+        disabled={activeComponent === 'Chart'}>Pie Chart</Button>
       </div>
       <div className='table-container'>
       {activeComponent === 'RateTable' && <RateTable records={data}/>}
       {activeComponent === 'Records' && <Records records={data}/>}
       {activeComponent === 'AddRecord' && <AddRecord onNewRecord={(newRecord)=>submitRecord(newRecord)}/>}
+      {activeComponent === 'Chart' && <Chart records={data}/>}
       </div>
       <br/><br/>
       <footer/>
